@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Sachin</h1>
 
 <h4 >
-  I'm a passionate full-stack developer with expertise in the MERN (MongoDB, Express.js, React.js, Node.js) stack. I love building robust and scalable web applications that solve real-world problems.
+  Full Stack Developer with 3 years of experience in building dynamic and scalable web applications. Proficient in React.js, Next.js, Redux, Node.js, Express, PostgreSQL, TypeScript, Prisma, and AWS. Experienced in developing payment integrations, scalable backend systems, and API development. Adept at collaborating with cross-functional teams to deliver efficient and secure solutions.
 </h4>
 
 <h2>About</h2>
