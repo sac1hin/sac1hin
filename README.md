@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sachinvermaa1234@gmail.com**
 
-- 📄 Know about my experiences [http://bit.ly/4cjPPjz](http://bit.ly/4cjPPjz)
+- 📄 Know about my experiences [http://bit.ly/4cjPPjz](https://bit.ly/4jkVqZj)
 
 <h2>Connect with me</h2>
 <p>
